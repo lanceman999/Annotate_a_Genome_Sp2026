@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 workdir="/Users/lanceoconnor/Downloads/lecture_4"
 outdir=sex_discrep
