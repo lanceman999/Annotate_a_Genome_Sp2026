@@ -1,6 +1,5 @@
 library(dplyr)
 library(data.table)
-install.packages("R.utils")
 
 setwd("/Users/lanceoconnor/Desktop/JohnsHopkins/classes/AnnotateAgenome/Annotate_a_Genome_Sp2026/lecture4_PRS")
 
